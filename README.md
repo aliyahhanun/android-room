@@ -10,10 +10,10 @@ No. Absen :03
 ![Halaman Awal](screenshot/awal.jpg)
 
 ## 2. Halaman Tambah data
-![Halaman Awal](screenshot/halaman%20tambah%20data.jpg)
+![Halaman Tambah Data](screenshot/halaman%20tambah%20data.jpg)
 
 ## 3. Menambah Data
-![Halaman Awal](screenshot/tambah%20data.jpg)
+![Menambah Data](screenshot/tambah%20data.jpg)
 
 ## 4. Halaman Setelah Tambah Data
-![Halaman Awal](screenshot/akhir.jpg)
+![Halaman Akhir](screenshot/akhir.jpg)
